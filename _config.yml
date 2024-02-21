@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenjian Ding"
-  avatar           : "images/photo.png"
+  avatar           : "images/photo.jpg"
   bio              : "PhD Candidate"
   location         : "Tianjin, China"
   employer         :
