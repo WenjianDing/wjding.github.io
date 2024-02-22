@@ -27,14 +27,14 @@ My primary research focuses on **NLP** and **Multimodal Understanding and Genera
 
 # 📝 Publications
 
-- <font color="#000066">**COLING 2024**</font> Can We Learn Question, Answer, and Distractors All from An
+- **<font color="#000066">COLING 2024</font>** Can We Learn Question, Answer, and Distractors All from An
 Image? A New Task for Multiple-Choice Visual Question Answering<font color="#0000dd">[PDF](https://github.com)</font>
-
 **Wenjian Ding**, Yao Zhang, Jun Wang, Adam Jatowt, Zhenglu Yang
-
 *In Coference on International Conference on Computational Linguistics*
 
-
+- **<font color="#000066">Computers & Electrical Engineering</font>** Tensor Completion Algorithms for Estimating Missing Values in Multi-channel Audio Signals<font color="#0000dd">[PDF](https://github.com)</font>
+**Wenjian Ding**, Zhe Sun, Xingxing Wu, Jordi Sol\'{e}-Casals, Cesar F. Caiafa, Zhenglu Yang
+*In Computers & Electrical Engineering*
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. Student in Computer Science, **Nankai University**.
 - *2017.09 - 2019.06*, M.S. in Business Analytics, **Fordham University**. 
