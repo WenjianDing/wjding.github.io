@@ -35,17 +35,15 @@ Image? A New Task for Multiple-Choice Visual Question Answering<font color="#000
 *In Coference on International Conference on Computational Linguistics*
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, Ph.D. Student in Computer Science, **Nankai University**.
+- *2017.09 - 2019.06*, M.S. in Business Analytics, **Fordham University**. 
+- *2013.09 - 2017.08*, B.S. in Mathematics and Applied Mathematics, **Hunan University**. 
+
+# 💻 EXPERIENCE
+- *2019.09 - 2022.06*, Algorithm Engineer, iFLYTEK, Hefei.
+
+# 🎖 Honors and Awards
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
