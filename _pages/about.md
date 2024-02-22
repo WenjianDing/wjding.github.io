@@ -32,9 +32,16 @@ Image? A New Task for Multiple-Choice Visual Question Answering [PDF](https://gi
 **Wenjian Ding**, Yao Zhang, Jun Wang, Adam Jatowt, Zhenglu Yang
 *In Coference on International Conference on Computational Linguistics*
 
-- **<font color="#000066">Computers & Electrical Engineering</font>** Tensor Completion Algorithms for Estimating Missing Values in Multi-channel Audio Signals<font color="#0000dd">[PDF](https://github.com)</font>
+- **<font color="#0000dd">Ad Hoc Networks</font>** Deep convolutional recurrent model for region recommendation with 
+spatial and temporal contexts [PDF](https://github.com)
+Hengpeng Xu, **Wenjian Ding**, Wei Shen, Jun Wang, Zhenglu Yang
+*In Ad Hoc Networks*
+
+- **<font color="#0000dd">Computers & Electrical Engineering</font>** Tensor Completion Algorithms for Estimating 
+Missing Values in Multi-channel Audio Signals [PDF](https://github.com)
 **Wenjian Ding**, Zhe Sun, Xingxing Wu, Jordi Sol\'{e}-Casals, Cesar F. Caiafa, Zhenglu Yang
 *In Computers & Electrical Engineering*
+
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. Student in Computer Science, **Nankai University**.
 - *2017.09 - 2019.06*, M.S. in Business Analytics, **Fordham University**. 
