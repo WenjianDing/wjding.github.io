@@ -30,17 +30,17 @@ My primary research focuses on **NLP** and **Multimodal Understanding and Genera
 - **<font color="#0000dd">(COLING'24)</font>** Can We Learn Question, Answer, and Distractors All from An
 Image? A New Task for Multiple-Choice Visual Question Answering [PDF](https://github.com)
 **Wenjian Ding**, Yao Zhang, Jun Wang, Adam Jatowt, Zhenglu Yang
-*In Coference on International Conference on Computational Linguistics*
+*In Coference of International Conference on Computational Linguistics*
 
-- **<font color="#0000dd">Ad Hoc Networks</font>** Deep convolutional recurrent model for region recommendation with 
+- **<font color="#0000dd">(Ad Hoc Networks)</font>** Deep convolutional recurrent model for region recommendation with 
 spatial and temporal contexts [PDF](https://github.com)
 Hengpeng Xu, **Wenjian Ding**, Wei Shen, Jun Wang, Zhenglu Yang
-*In Ad Hoc Networks*
+*In Article of Ad Hoc Networks*
 
-- **<font color="#0000dd">Computers & Electrical Engineering</font>** Tensor Completion Algorithms for Estimating 
+- **<font color="#0000dd">(Computers & Electrical Engineering)</font>** Tensor Completion Algorithms for Estimating 
 Missing Values in Multi-channel Audio Signals [PDF](https://github.com)
 **Wenjian Ding**, Zhe Sun, Xingxing Wu, Jordi Sol\'{e}-Casals, Cesar F. Caiafa, Zhenglu Yang
-*In Computers & Electrical Engineering*
+*In Article of Computers & Electrical Engineering*
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. Student in Computer Science, **Nankai University**.
