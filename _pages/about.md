@@ -55,4 +55,4 @@ Missing Values in Multi-channel Audio Signals [PDF](https://github.com)
 # 💬 Invited Talks
 
 # 🗺️ Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=iFnG-gCYuh0KVMFBlfFNzO88qE0F5Pvvs6wBSEusVqU"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=iFnG-gCYuh0KVMFBlfFNzO88qE0F5Pvvs6wBSEusVqU'></script>
