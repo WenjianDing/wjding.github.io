@@ -53,7 +53,7 @@ Missing Values in Multi-channel Audio Signals [PDF](https://github.com)
 - *2017.09 - 2019.06*, M.S. in Business Analytics, **Fordham University**. 
 - *2013.09 - 2017.08*, B.S. in Mathematics and Applied Mathematics, **Hunan University**. 
 
-# 💻 EXPERIENCE
+# 💻 Experience
 - *2019.09 - 2022.06*, Algorithm Engineer, iFLYTEK, Hefei.
 
 # 🎖 Honors and Awards
