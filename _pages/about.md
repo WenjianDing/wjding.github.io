@@ -39,7 +39,7 @@ Hengpeng Xu, **Wenjian Ding**, Wei Shen, Jun Wang, Zhenglu Yang
 
 - **<font color="#0000dd">(Computers & Electrical Engineering)</font>** Tensor Completion Algorithms for Estimating
 Missing Values in Multi-channel Audio Signals [PDF](https://github.com)     
-**Wenjian Ding**, Zhe Sun, Xingxing Wu, Jordi Sol\'{e}-Casals, Cesar F. Caiafa, Zhenglu Yang     
+**Wenjian Ding**, Zhe Sun, Xingxing Wu, Jordi Sole-Casals, Cesar F. Caiafa, Zhenglu Yang     
 *In Article of Computers & Electrical Engineering*
 
 # 📖 Educations
