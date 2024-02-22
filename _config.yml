@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenjian Ding"
-description              : "Department of Computer Science in Nankai University"
+description              : "Dept. of Computer Science Nankai University"
 repository               : "wjding.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenjian Ding"
   avatar           : "images/photo.jpg"
-  bio              : "PhD Candidate"
+  bio              : "Ph.D. Candidate"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 

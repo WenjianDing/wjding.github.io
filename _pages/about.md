@@ -18,27 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm currently a second-year Ph.D. candidate in the Department of Computer Science at Nankai University, supervised by Prof. Zhenglu Yang.
-My primary research focuses on **NLP** and **Multimodal Understanding**. 
+My primary research focuses on **NLP** and **Multimodal Understanding and Generation**. 
 
 # 🔥 News
-- *2024.02*: 🎉🎉 One papers has been accepted in the **COLING'24**. 
+- *2024.02*: One paper has been accepted in the **COLING'24** 
+- *2022.04*: One paper has been accepted in the **Ad Hoc Networks** 
+- *2022.01*: One paper has been accepted in the **Computers & Electrical Engineering** 
 
+# 📝 Publications
 
-# 📝 Publications 
+- <font color="#000066">**COLING 2024**</font> Can We Learn Question, Answer, and Distractors All from An
+Image? A New Task for Multiple-Choice Visual Question Answering<font color="#0000dd">[PDF](https://github.com)</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Wenjian Ding**, Yao Zhang, Jun Wang, Adam Jatowt, Zhenglu Yang
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+*In Coference on International Conference on Computational Linguistics*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
