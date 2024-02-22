@@ -28,7 +28,7 @@ My primary research focuses on **NLP** and **Multimodal Understanding and Genera
 # 📝 Publications
 
 - **<font color="#000066">COLING 2024</font>** Can We Learn Question, Answer, and Distractors All from An
-Image? A New Task for Multiple-Choice Visual Question Answering<font color="#0000dd">[PDF](https://github.com)</font>
+Image? A New Task for Multiple-Choice Visual Question Answering [PDF](https://github.com)
 **Wenjian Ding**, Yao Zhang, Jun Wang, Adam Jatowt, Zhenglu Yang
 *In Coference on International Conference on Computational Linguistics*
 
